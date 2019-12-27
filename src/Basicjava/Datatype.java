@@ -6,6 +6,7 @@ public class Datatype {
 		// TODO Auto-generated method stub
 		//Primitive Data types: int, double, boolean, char
 
+		//data type
 				//Non Primitive Data Types: String, Array
 
 				//1. int (4 bytes): byte (1byte), long(8 bytes), short(2 bytes) 
